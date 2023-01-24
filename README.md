@@ -2,9 +2,7 @@
 
 A machine learning project that aims to test the extent to which [GPT-2](https://github.com/openai/gpt-2) is able to understand Python syntax.
 
-[Live demo](https://huggingface.co/spaces/equ1/generative_python_transformer) available (Please click "Restart Space" if it has timed out due to inactivity.
-
-).
+[Live demo](https://huggingface.co/spaces/equ1/generative_python_transformer) available (Please click "Restart Space" if it has timed out due to inactivity).
 
 # Model
 
